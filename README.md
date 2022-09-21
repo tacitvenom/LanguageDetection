@@ -18,3 +18,6 @@ Intended approach is:
 - Create a UI where I can explore the songs and find which songs are similar in terms of gravitas of the lyrics, and try them out
 
 
+#### 2022-09-01: Sanity checks:
+* Can I get lyrics dataset readily or do I need to scrape azlyrics or a similar website?:
+    - df 
