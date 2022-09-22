@@ -6,7 +6,7 @@ destination_relative_path = "resources/intermediate"
 output_file_name = "sample_songs_df.tsv"
 
 if not os.path.exists(destination_relative_path):
-  os.makedirs(destination_relative_path)
+    os.makedirs(destination_relative_path)
 
 cwd = os.getcwd()
 
