@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-source_relative_path = "resources/raw/sample_songs"
-destination_relative_path = "resources/intermediate"
+source_relative_path = "data/raw/sample_songs"
+destination_relative_path = "data/intermediate"
 output_file_name = "sample_songs_df.tsv"
 
 if not os.path.exists(destination_relative_path):
