@@ -33,7 +33,7 @@ Easy-peasy, fellas! Stay with me! ;)
 ## Let's go!
 ### Hunt for a dataset
 - Lyrics dataset - I found something: [Kaggle Song Lyrics Dataset](https://www.kaggle.com/datasets/deepshah16/song-lyrics-dataset)
-- Yayy, let's download and have a deeper look.
+- Yayy, let's download and have a deeper look. You can find the downloaded data at the directory `data/raw/lyrics`
 #### Findings/Observations
 - There are songs in many languages, so I'd need to know all possible languages present and ensure that those languages are handled by one or more language models.
 - Some songs don't have lyrics, or some standard text as lyrics like "unreleased".
